@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2025-10-15T02:21:54+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2025-10-16T00:00:28+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -256,7 +256,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
                 TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts15">
-                <ANNOTATION_VALUE>ну пущино это й=</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ну Пущино это й=</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -364,7 +364,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
                 TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts86">
-                <ANNOTATION_VALUE>есть река ока</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>есть река Ока</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -478,7 +478,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44"
                 TIME_SLOT_REF1="ts166" TIME_SLOT_REF2="ts172">
-                <ANNOTATION_VALUE>я часто в целом люблю= любила</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>я часто в целом люблю любила</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -589,13 +589,13 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
                 TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
-                <ANNOTATION_VALUE>и кхм кхм</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>и #кашляет#</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
                 TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
-                <ANNOTATION_VALUE>если это два разных места / то может быть это будет два разных ответа</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>если это два разных места / то может быть это будет два разных ответа?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -617,7 +617,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60"
                 TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts13">
-                <ANNOTATION_VALUE>пущино</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Пущино</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -923,7 +923,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a111"
                 TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
-                <ANNOTATION_VALUE>ока</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Ока</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1295,7 +1295,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a171"
                 TIME_SLOT_REF1="ts170" TIME_SLOT_REF2="ts171">
-                <ANNOTATION_VALUE>люблю=</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>люблю</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
